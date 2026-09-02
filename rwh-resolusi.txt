@@ -3,3 +3,4 @@ RWH RESOLUSI
 - Membuat Web Profile
 - Membuat Project Web Optik
 - membuat beberapa portofolilo
+- dapat menggunakan beberapa programing language
